@@ -1,1 +1,4 @@
-# Instagram-python
+# インスタグラムでwebスクレイピング
+
+### ・Python
+### ・Selenium
